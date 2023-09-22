@@ -1,0 +1,22 @@
+{
+    "window.zoomLevel": 0,
+    "editor.fontSize": 18,
+    "explorer.compactFolders": false,
+    "window.commandCenter": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
+    
+    "code-runner.executorMap": {
+    "python": "cls ; python -u",  
+    },
+
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "workbench.iconTheme": "material-icon-theme",
+
+    "python.defaultInterpreterPath": "python"
+}
